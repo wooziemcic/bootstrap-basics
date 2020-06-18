@@ -1,0 +1,15 @@
+.lobster{
+    font-family: Lobster;
+}
+
+.dancing{
+    font-family: 'Dancing Script', cursive;
+}
+
+.well{
+    border-style: solid;
+}
+
+body{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(238, 130, 238, 1));
+}
